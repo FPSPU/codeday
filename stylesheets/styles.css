@@ -300,7 +300,8 @@ footer {
   }
 
   header ul {
-    //position:absolute;
+    //pos
+    ition:absolute;
     right:50px;
     top:52px;
   }
@@ -346,3 +347,8 @@ footer {
   }
 }
 
+.survey {
+  font-size: 22px;
+  background:#eff1f4;
+  padding: 10px;
+}
